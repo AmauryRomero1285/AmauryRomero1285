@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Amaury Romero</h1>
-<h3 align="center">Associate's Degree in Software Development | Software Management Engineering @ UTXJ</h3>
+<h3 align="center"> Software Development Technician | Software Management Engineering @ UTXJ</h3>
 
 <br>
 
