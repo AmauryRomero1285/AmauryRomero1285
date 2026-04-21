@@ -54,14 +54,13 @@ Developer focused on **full-stack and intelligent** solutions, combining automat
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 
-### Backend & Bases Data
+### Backend & Data Bases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-brightgreen.svg?style=for-the-badge)
 
 ### Tools & Methodologies
@@ -101,7 +100,7 @@ Developer focused on **full-stack and intelligent** solutions, combining automat
 
 - Software Management Engineering (in progress)
 
-- Associate's Degree in Multiplatform Software Development *(completed)*
+- Multiplatform Software Development Technician *(completed)*
 
 <br>
 
