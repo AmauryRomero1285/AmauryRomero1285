@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Amaury Romero</h1>
-<h3 align="center"> Software Development Technician | Software Management Engineering @ UTXJ</h3>
+<h3 align="center"> Software Development Balcheror | Software Management Engineering @ UTXJ</h3>
 
 <br>
 
@@ -9,11 +9,11 @@ Developer focused on **full-stack and intelligent** solutions, combining automat
 
 - **RPA & OCR:** I developed a Chatbot + OCR system on **Nubay** using **UiPath**.
 
-- **Current Focus:** Specializing in mobile development with **Flutter & Dart**.
+- **Current Focus:** Specializing in backend development with **Python & Java**.
 
-- **Technical Curiosity:** I'm passionate about graph databases — currently learning **Neo4j**, with solid experience in relational databases (**MySQL**).
+- **Technical Curiosity:** I'm passionate about graph databases — currently learning **SQL**, with solid experience in relational databases (**MySQL, PostgreSQL, MariaDB**).
 
-- **Hobbies:** I write, read, listen to a lot of music, and I'm a video game enthusiast.
+- **Hobbies:** I write & read poems also listen to a lot of music, and I'm a video game enthusiast.
 
 
 > *"Software is a combination of art and engineering."*
@@ -78,13 +78,13 @@ Developer focused on **full-stack and intelligent** solutions, combining automat
 
 - **Methodologies:** Scrum, Git Flow, Feature-First.
 
-- **Architecture:** SOLID Principles, Design Patterns (GoF), MVC, MVVM.
+- **Architecture:** Design Patterns (GoF), MVC, MVVM.
 
 <br>
 
 ## Currently
 
-- 🌱 **Learning:** Software Architecture and Clean Code in Flutter.
+- 🌱 **Learning:** Software Architecture and Clean Code.
 
 - 👯 **Looking to collaborate on:** Open source automation or web projects.
 
